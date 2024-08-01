@@ -49,3 +49,7 @@ Geographical and Store Size Analysis:
   
     Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
 
+**Visualization**:
+![image](https://github.com/user-attachments/assets/d5a25e43-ccfe-40bf-b24d-10838fa809b4)
+
+
