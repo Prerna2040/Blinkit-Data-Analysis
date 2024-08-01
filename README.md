@@ -4,14 +4,10 @@ This project focuses on creating a comprehensive sales dashboard for Blinkit usi
 
 **Steps**:
 
-Data Collection:
-  
-  Gathered data from various reliable websites to ensure comprehensive coverage of sales information.
+Data Collection: Gathered data from various reliable websites to ensure comprehensive coverage of sales information.
 
 
-Data Loading and Cleaning:
-
-  Imported the collected data into Power BI.
+Data Loading and Cleaning: Imported the collected data into Power BI.
   
   Cleaned the data by:
   
@@ -22,9 +18,7 @@ Data Loading and Cleaning:
     - Changing data types as needed.
 
 
-Data Analysis:
-
-  Utilized DAX functions, measures, and calculated columns to perform detailed analysis
+Data Analysis: Utilized DAX functions, measures, and calculated columns to perform detailed analysis
 
 
 **Key Metrics Analyzed**:
@@ -41,17 +35,17 @@ Data Analysis:
 **Insights**:
 
 Sales Performance:
-
-  Low-fat items account for 64.6% of total sales, significantly outperforming regular items.
   
-  The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
+     Low-fat items account for 64.6% of total sales, significantly outperforming regular items.
   
-  Stores established in 2018 have generated the highest revenue at ₹205K.
+    The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
+  
+    Stores established in 2018 have generated the highest revenue at ₹205K.
 
 
 Geographical and Store Size Analysis:
 
-  Tier 3 cities are leading in sales performance.
+    Tier 3 cities are leading in sales performance.
   
-  Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
+    Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
 
